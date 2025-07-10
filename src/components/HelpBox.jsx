@@ -10,7 +10,7 @@ function HelpBox({ title, text }) {
     </article>
   );
 }
-
+// random text
 HelpBox.propTypes = {
   title: string,
   text: string,
