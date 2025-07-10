@@ -7,7 +7,7 @@ on:
   push:
     branches:
       - main
-      - "dev-*" #dev-new dev-this-is-new
+      - "dev*" #dev-new dev-this-is-new
       - "feature/*" #feature/new feature/this/is/new
     paths-ignore:
       - '.github/workflows/*'
