@@ -13,7 +13,7 @@ function HelpBox({ title, text }) {
 
 // My test 
 // yet another comment
-// random
+// random1
 HelpBox.propTypes = {
   title: string,
   text: string,
